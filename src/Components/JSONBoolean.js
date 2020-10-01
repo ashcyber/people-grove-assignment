@@ -1,7 +1,7 @@
 import React from "react";
 import Indent from "./Indent";
 
-export default function Number(props) {
+export default function Boolean(props) {
   const { keyValue, indentSize, value } = props;
 
   return (
