@@ -1,4 +1,4 @@
-## To Run App : nmpm run start
+## To Run App : npm run start
 - Built using create-react-app
 - left panel is the json input field 
 - right panel is the json viwer 
